@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+    width: 100%;
+}
+
+
+header{
+    background-color: purple;
+    color: #fafafa;
+}
+
+.assign-Tweet{
+    border-radius: 10px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: solid black 2px;
+    margin-bottom: 10px;
+    height: 150px;
+    line-height: 150px;
+}
+
+.new-tweet{
+    height: 40px;
+}
+
+.btn-tweet{
+    border-radius: 5px;
+    background-color: green;
+    color: #fafafa;
+}
+
+.tweets{
+    margin-top: 10px;
+}
+
+.tweet-container{
+    border-radius: 10px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: solid black 2px;
+    margin-bottom: 10px;
+}
+
+.tweet-time{
+    font-style: italic;
+    color: grey;
+}
+
+.tweet-body{
+    
+}
+
+

@@ -1,0 +1,16 @@
+.btn{
+    height: 70px;
+    width: 150px;
+    border-radius: 5px;
+    color: whitesmoke;
+    background-color: darkgray;
+}
+
+img{
+    float: left;
+}
+
+.kitten{
+    background-color: purple;
+    height: 900px;
+}
